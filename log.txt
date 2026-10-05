@@ -1,0 +1,40 @@
+commit 2f5e11c80ae8d8fd1bede2607d442142c5d51833 (HEAD -> main, origin/main)
+Merge: 3286ff3 4805c19
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 16:13:03 2026 +0300
+
+    Resolve conflict
+
+commit 3286ff31ccf9b36190042e17b8ea664f786ff7ff
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 16:08:08 2026 +0300
+
+    main: строка 1
+
+commit 4805c19eb39eceef318bb4686968e82d6976c00d (origin/feature-c, feature-c)
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 16:05:43 2026 +0300
+
+    add 'строка 1'
+
+commit 8c7da7cb544900b56f5fade1f6688b64a9f27769 (origin/feature-b, feature-b)
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 13:32:52 2026 +0300
+
+    add 'строка 1'
+
+commit 387156819f475c7721277544152ea6aa6b9b2d53 (origin/feature-a, feature-a)
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 13:27:17 2026 +0300
+
+    add 'строка 2'
+
+commit bb842ed15c34786682e0b8eef0f061b2d1f42981
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 13:26:34 2026 +0300
+
+    add 'строка 1'
+
+commit 4c30a98f35e1f388d16442dd4f405c0ec619b476
+Author: Maxim Khanukaev <Andreymaxim387@gmail.com>
+Date:   Mon Oct 5 01:48:56 2026 +0300
